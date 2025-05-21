@@ -3,8 +3,8 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Planet ECOM: A Shopify Dev Blog`,
-    siteUrl: `https://silver-axolotl-f6093a.netlify.app/`,
+    title: `Planet Ecom: Shopify Development Blog`,
+    siteUrl: `https://www.yourdomain.tld`,
   },
   plugins: [
     'gatsby-plugin-image',
